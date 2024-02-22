@@ -1,0 +1,39 @@
+[07-Feb-2024 22:49:27 Europe/Berlin] PHP Warning:  Undefined array key "nota" in C:\xampp\leendy\htdocs\SEC\Gestion\EditarEmpresa.php on line 171
+[07-Feb-2024 22:49:27 Europe/Berlin] 
+[07-Feb-2024 22:49:27 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\leendy\htdocs\SEC\Gestion\EditarEmpresa.php:138) in C:\xampp\leendy\htdocs\SEC\Gestion\EditarEmpresa.php on line 177
+[08-Feb-2024 19:04:47 Europe/Berlin] PHP Warning:  Undefined array key "comentarioag" in C:\xampp\leendy\htdocs\SEC\Gestion\modificar.php on line 16
+[08-Feb-2024 19:04:47 Europe/Berlin] PHP Warning:  Undefined variable $comentarioag in C:\xampp\leendy\htdocs\SEC\Gestion\modificar.php on line 29
+[08-Feb-2024 19:04:47 Europe/Berlin] 
+[08-Feb-2024 19:06:07 Europe/Berlin] PHP Warning:  Undefined array key "comentarioag" in C:\xampp\leendy\htdocs\SEC\Gestion\modificar.php on line 16
+[08-Feb-2024 19:06:07 Europe/Berlin] PHP Warning:  Undefined variable $comentarioag in C:\xampp\leendy\htdocs\SEC\Gestion\modificar.php on line 29
+[08-Feb-2024 19:06:07 Europe/Berlin] 
+[08-Feb-2024 19:10:53 Europe/Berlin] PHP Warning:  Undefined variable $comentarioag in C:\xampp\leendy\htdocs\SEC\Gestion\modificar.php on line 29
+[08-Feb-2024 19:10:53 Europe/Berlin] 
+[20-Feb-2024 19:43:48 Europe/Berlin] PHP Warning:  Undefined array key "claseestimulos" in C:\xampp\htdocs\SEC\Gestion\modificar.php on line 16
+[20-Feb-2024 20:19:25 Europe/Berlin] PHP Warning:  Undefined array key "idE" in C:\xampp\htdocs\SEC\Gestion\modificar.php on line 8
+[20-Feb-2024 20:19:25 Europe/Berlin] PHP Warning:  Undefined array key "nombrereprel" in C:\xampp\htdocs\SEC\Gestion\modificar.php on line 9
+[20-Feb-2024 20:19:25 Europe/Berlin] PHP Warning:  Undefined array key "numeroreprelfijo" in C:\xampp\htdocs\SEC\Gestion\modificar.php on line 10
+[20-Feb-2024 20:19:25 Europe/Berlin] PHP Warning:  Undefined array key "numeroreprelcel" in C:\xampp\htdocs\SEC\Gestion\modificar.php on line 11
+[20-Feb-2024 20:19:25 Europe/Berlin] PHP Warning:  Undefined array key "nombrecontacto" in C:\xampp\htdocs\SEC\Gestion\modificar.php on line 12
+[20-Feb-2024 20:19:25 Europe/Berlin] PHP Warning:  Undefined array key "numerocontactofijo" in C:\xampp\htdocs\SEC\Gestion\modificar.php on line 13
+[20-Feb-2024 20:19:25 Europe/Berlin] PHP Warning:  Undefined array key "numerocontactocel" in C:\xampp\htdocs\SEC\Gestion\modificar.php on line 14
+[20-Feb-2024 20:19:25 Europe/Berlin] PHP Warning:  Undefined array key "estimulos" in C:\xampp\htdocs\SEC\Gestion\modificar.php on line 15
+[20-Feb-2024 20:19:25 Europe/Berlin] PHP Warning:  Undefined array key "claseestimulos" in C:\xampp\htdocs\SEC\Gestion\modificar.php on line 16
+[20-Feb-2024 20:19:25 Europe/Berlin] PHP Warning:  Undefined array key "valorestimulos" in C:\xampp\htdocs\SEC\Gestion\modificar.php on line 17
+[20-Feb-2024 20:19:25 Europe/Berlin] PHP Warning:  Undefined array key "comentarioag" in C:\xampp\htdocs\SEC\Gestion\modificar.php on line 18
+[20-Feb-2024 20:19:29 Europe/Berlin] PHP Warning:  mysqli_connect(): (HY000/2002): No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión in C:\xampp\htdocs\SEC\conexion.php on line 7
+[20-Feb-2024 20:20:35 Europe/Berlin] PHP Warning:  Undefined array key "idE" in C:\xampp\htdocs\SEC\Gestion\modificar.php on line 8
+[20-Feb-2024 20:20:35 Europe/Berlin] PHP Warning:  Undefined array key "nombrereprel" in C:\xampp\htdocs\SEC\Gestion\modificar.php on line 9
+[20-Feb-2024 20:20:35 Europe/Berlin] PHP Warning:  Undefined array key "numeroreprelfijo" in C:\xampp\htdocs\SEC\Gestion\modificar.php on line 10
+[20-Feb-2024 20:20:35 Europe/Berlin] PHP Warning:  Undefined array key "numeroreprelcel" in C:\xampp\htdocs\SEC\Gestion\modificar.php on line 11
+[20-Feb-2024 20:20:35 Europe/Berlin] PHP Warning:  Undefined array key "nombrecontacto" in C:\xampp\htdocs\SEC\Gestion\modificar.php on line 12
+[20-Feb-2024 20:20:35 Europe/Berlin] PHP Warning:  Undefined array key "numerocontactofijo" in C:\xampp\htdocs\SEC\Gestion\modificar.php on line 13
+[20-Feb-2024 20:20:35 Europe/Berlin] PHP Warning:  Undefined array key "numerocontactocel" in C:\xampp\htdocs\SEC\Gestion\modificar.php on line 14
+[20-Feb-2024 20:20:35 Europe/Berlin] PHP Warning:  Undefined array key "estimulos" in C:\xampp\htdocs\SEC\Gestion\modificar.php on line 15
+[20-Feb-2024 20:20:35 Europe/Berlin] PHP Warning:  Undefined array key "claseestimulos" in C:\xampp\htdocs\SEC\Gestion\modificar.php on line 16
+[20-Feb-2024 20:20:35 Europe/Berlin] PHP Warning:  Undefined array key "valorestimulos" in C:\xampp\htdocs\SEC\Gestion\modificar.php on line 17
+[20-Feb-2024 20:20:35 Europe/Berlin] PHP Warning:  Undefined array key "comentarioag" in C:\xampp\htdocs\SEC\Gestion\modificar.php on line 18
+[20-Feb-2024 20:20:39 Europe/Berlin] PHP Warning:  mysqli_connect(): (HY000/2002): No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión in C:\xampp\htdocs\SEC\conexion.php on line 7
+[20-Feb-2024 22:21:16 Europe/Berlin] PHP Warning:  Undefined array key "claseestimulos" in C:\xampp\htdocs\SEC\Gestion\modificar.php on line 16
+[20-Feb-2024 22:23:57 Europe/Berlin] PHP Warning:  Undefined array key "claseestimulos" in C:\xampp\htdocs\SEC\Gestion\modificar.php on line 16
+[20-Feb-2024 22:25:08 Europe/Berlin] PHP Warning:  Undefined array key "claseestimulos" in C:\xampp\htdocs\SEC\Gestion\modificar.php on line 16
